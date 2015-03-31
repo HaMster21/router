@@ -1,0 +1,2 @@
+[Julien Quintard - Towards a worldwide storage infrastructure](https://www.repository.cam.ac.uk/bitstream/handle/1810/243442/thesis.pdf)
+- thesis written in 2010, summing up various technologies known at that time
